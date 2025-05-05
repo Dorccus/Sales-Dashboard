@@ -22,6 +22,7 @@ The dashboard is designed to be intuitive and easy to use, even for those with l
 	Percentage of Total sales delivered.
 
 #Dashboard
+Interactive Dashboard <a href="https://github.com/Dorccus/Sales-Dashboard/blob/main/Screenshot%202025-05-05%20214442.png">Dashboard</a>
 
 
 #Insights
