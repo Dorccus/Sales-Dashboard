@@ -11,6 +11,7 @@ The dashboard can be updated automatically with new data through a simple data i
 The dashboard is designed to be intuitive and easy to use, even for those with limited Excel experience.
 
 #Dashboard
+Dataset <a href="https://github.com/Dorccus/Sales-Dashboard/blob/main/Indian_Food_Nutrition_Processed101-(Dash).xlsb.xlsx">Excel_File</a>
 Interactive Dashboard <a href="https://github.com/Dorccus/Sales-Dashboard/blob/main/Screenshot%202025-05-05%20214442.png">Dashboard</a>
 
 
